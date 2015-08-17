@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 welcome to geca
+=======
+welcome to mca
+>>>>>>> 008cbf098a62112409cebf4cacac2790a31c3309
